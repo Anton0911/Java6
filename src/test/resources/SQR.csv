@@ -1,0 +1,4 @@
+"Checking within the acceptable range",200,300,3
+"Checking the lower limit of the range",100,200,5
+"Checking the upper limit of the range",300,400,3
+"Checking the negative range",-200,-300,0
